@@ -2,7 +2,7 @@
 
 Proyecto simple de prueba, aplicación de calculadora desarrollado en Flutter.
 
-TO DO:
+### Todo
 - [ ] Añadir función lógica.
 - [ ] Añadir función Dark & Light Mode
 
